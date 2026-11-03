@@ -1,10 +1,17 @@
-## In Case I Don't See Ya
+## In Case I Don't See Ya 👋
 
-My name is **Túlio**, currently an undergraduate in Software Engineering at the **INATEL**.
+My name is **Túlio**, and I'm currently pursuing a degree in **Software Engineering at INATEL**.
 
 ---
 
 ## Currently 💻
 
-Currently looking to learn more about artificial intelligence, like machine learning, and secretly building a chatbot... oops 😶‍🌫️
+I'm currently exploring the world of **Artificial Intelligence**, especially **Machine Learning**, and secretly building a chatbot... oops 😶‍🌫️
 
+---
+
+## How to Contact Me 🗣️
+
+My inbox is always open!
+
+**[tuliocesaralvesjunho@gmail.com](mailto:tuliocesaralvesjunho@gmail.com)** 📧
