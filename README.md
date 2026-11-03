@@ -1,7 +1,10 @@
-## Oi
+## In Case I Don't See Ya
 
-<div>
-  <a href="https://github.com/Tulio-Junho">
-    Meu GitHub
-  </a>
-</div>
+My name is **Túlio**, currently an undergraduate in Software Engineering at the **INATEL**.
+
+---
+
+## Currently 💻
+
+Currently looking to learn more about artificial intelligence, like machine learning, and secretly building a chatbot... oops 😶‍🌫️
+
