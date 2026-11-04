@@ -6,7 +6,7 @@ My name is **Túlio**, and I'm currently pursuing a degree in **Software Enginee
 
 ## Currently 💻
 
-I'm currently exploring the world of **Artificial Intelligence**, especially **Machine Learning**, and secretly building a chatbot... oops 😶‍🌫️
+Developing a dungeon crawler game with a group in GML and **looking for an internship in programming areas**
 
 ---
 
