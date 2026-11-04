@@ -6,7 +6,7 @@ My name is **Túlio**, and I'm currently pursuing a degree in **Software Enginee
 
 ## Currently 💻
 
-Developing a dungeon crawler game with a group in GML and **looking for an internship in programming areas**
+I'm currently developing FinanceAI, an AI-powered personal finance assistant designed to automate expense tracking and categorization, analyze spending habits, and provide personalized financial insights. The project is being built using Python, Gemini API, SQLite, and Streamlit and **looking for an internship in programming areas**
 
 ---
 
