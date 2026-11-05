@@ -6,7 +6,11 @@ My name is **Túlio**, and I'm currently pursuing a degree in **Software Enginee
 
 ## Currently 💻
 
-I'm currently developing FinanceAI, an AI-powered personal finance assistant designed to automate expense tracking and categorization, analyze spending habits, and provide personalized financial insights. The project is being built using Python, Gemini API, SQLite, and Streamlit and **looking for an internship in programming areas**
+I'm currently exploring Artificial Intelligence and Software Development, focusing on improving my programming skills and building practical projects.
+
+My latest project is FeedbackAI, a Python application that uses the Google Gemini API to automatically classify user feedback into categories such as compliments, complaints, suggestions, and questions.
+
+I'm also looking for an internship opportunity in software development, where I can apply my knowledge, gain hands-on experience, and continue growing as a developer.
 
 ---
 
